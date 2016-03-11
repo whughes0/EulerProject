@@ -2,9 +2,9 @@ import components.naturalnumber.NaturalNumber;
 import components.naturalnumber.NaturalNumber2;
 
 /**
- * Put a short phrase describing the program here.
+ * https://projecteuler.net/problem=9
  *
- * @author Put your name here
+ * @author William Hughes
  *
  */
 public final class P8 {
