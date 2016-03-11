@@ -2,9 +2,9 @@ import components.simplereader.SimpleReader;
 import components.simplereader.SimpleReader1L;
 
 /**
- * Put a short phrase describing the program here.
+ * https://projecteuler.net/problem=18
  *
- * @author Put your name here
+ * @author William Hughes
  *
  */
 public final class P18 {
