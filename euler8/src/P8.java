@@ -2,7 +2,7 @@ import components.naturalnumber.NaturalNumber;
 import components.naturalnumber.NaturalNumber2;
 
 /**
- * https://projecteuler.net/problem=9
+ * https://projecteuler.net/problem=8
  *
  * @author William Hughes
  *
