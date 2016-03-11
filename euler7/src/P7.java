@@ -2,9 +2,10 @@ import components.sequence.Sequence;
 import components.sequence.Sequence3;
 
 /**
- * Put a short phrase describing the program here.
- *
- * @author Put your name here
+ * By listing the first six prime numbers: 2, 3, 5, 7, 11, and 13, we can see that the 6th prime is 13.  
+ * What is the 10 001st prime number?
+ * 
+ * @author William Hughes
  *
  */
 public final class P7 {
