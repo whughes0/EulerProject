@@ -2,9 +2,9 @@ import components.map.Map;
 import components.map.Map2;
 
 /**
- * Put a short phrase describing the program here.
+ * https://projecteuler.net/problem=12
  *
- * @author Put your name here
+ * @author William Hughes
  *
  */
 public final class P12 {
