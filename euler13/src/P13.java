@@ -6,9 +6,9 @@ import components.simplewriter.SimpleWriter;
 import components.simplewriter.SimpleWriter1L;
 
 /**
- * Put a short phrase describing the program here.
+ * https://projecteuler.net/problem=13
  *
- * @author Put your name here
+ * @author William Hughes
  *
  */
 public final class P13 {
